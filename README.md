@@ -13,9 +13,11 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 This project aims to analyze key indicators for the pizza sales data in order to gain insights into the business performance.
 
-![Pizza Monthly trend](https://github.com/Uzoblisz/Pizza-Sales-Project/assets/114764715/309ca249-06af-4cec-9416-d088892954d9)
+![Pizza Monthly trend](https://github.com/Uzoblisz/Pizza-Sales-Project/assets/114764715/309ca249-06af-4cec-9416-d088892954d9)    
+
 ![Pizza sales by category](https://github.com/Uzoblisz/Pizza-Sales-Project/assets/114764715/81b68f59-112b-44dc-babd-365c102dde9a)
 
 ### Data Sources
