@@ -171,3 +171,8 @@ The analysis results are summarized as follows;
 - Review and Adjust Pricing Strategy: Evaluate the pricing strategy for the Spinach Pesto Pizza, Soppressata Pizza, and Chicken Pesto Pizza, which are identified as the worst sellers by total revenue, quantity, and order. Consider adjusting prices, running promotions, or even repositioning these items on the menu to improve their performance.
 - Explore Seasonal Variations: Given the noticeable peak in sales during July, consider exploring the reasons behind this increase. If it's related to seasonal trends or events, develop targeted seasonal promotions or menu additions to capitalize on similar patterns in the future.
 - Collect and analyze customer feedback to understand preferences and areas for improvement. Engage with customers through surveys or social media to gather insights that can inform product development and marketing strategies.
+
+
+### References
+- Nabin, K. (2022). An analysis on the factors causing sales drop at a department store: A case study of Nepal Bazar International Pvt. Ltd" Biratnagar. Researchgate.
+- Doug, J., Narayandas, D., Chang, D. (2019). The Effects of Quota Frequency:Sales Performance and Product Focus. Harvard Business School.
