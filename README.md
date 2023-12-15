@@ -151,6 +151,9 @@ SELECT TOP 5
 
 ![Pizza sales dashboard](https://github.com/Uzoblisz/Pizza-Sales-Project/assets/114764715/8960c033-88c3-413d-ac99-745e7088182e)
 
+![Pizza sales dashboard 2](https://github.com/Uzoblisz/Pizza-Sales-Project/assets/114764715/ee38e50b-af23-4365-be37-68fe66a53c3e)
+
+
 ### Results/Findings
 
 The analysis results are summarized as follows;
